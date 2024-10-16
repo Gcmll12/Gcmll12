@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel Mello
-- 👀 I’m interested in Programação, Análise de Dados, Machine learning
-- 🌱 I’m currently learning SQL, Phyton, JavaScript, PowerBi...
+- 👀 I’m interested in Programação, 
+- 🌱 I’m currently learning C#, DotNet, SQL, Banco de Dados...
 - 📫 How to reach me gabrielch2mello@gmail.com
 
 
